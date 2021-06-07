@@ -1,0 +1,6 @@
+framework module Pods_Lisa_Obesidade {
+  umbrella header "Pods-Lisa Obesidade-umbrella.h"
+
+  export *
+  module * { export * }
+}
