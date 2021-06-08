@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/yurinekan/Desktop/nekan/Projetos/Ionic/lisa-obesidade-mobile/platforms/ios/LISA Obesidade.xcodeproj">
+      location = "group:Lisa Obesidade.xcodeproj">
    </FileRef>
 </Workspace>
